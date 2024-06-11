@@ -1,3 +1,15 @@
-p{
-    color:blue
+body{
+    margin-left: 150px;
+    margin-top:0px;
+}
+
+a :hover {
+    color: blue;
+    text-decoration: none;
+}
+
+#navbar {
+    text-decoration: none;
+    background-color: beige;
+    padding: 30px;
 }
